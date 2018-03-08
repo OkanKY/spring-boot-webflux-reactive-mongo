@@ -7,6 +7,8 @@ Spring Webflux
 Spring Reactive Data MongoDb
 Spring Security Reactive Webflux
 
+![alt text](https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/images/webflux-overview.png)
+
 Running
 In application.properties, configure appropriate values. 
 
